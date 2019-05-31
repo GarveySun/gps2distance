@@ -5,7 +5,7 @@
   <a href="https://www.npmjs.com/package/@garvey/gps2distance"><img src="https://img.shields.io/npm/l/@garvey/gps2distance.svg" alt="License"></a>
   </p>
 
-This library shield sensitive data to show.
+Calculate the distance between two points
 ## use it
 run
 

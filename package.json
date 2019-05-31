@@ -1,7 +1,7 @@
 {
   "name": "@garvey/gps2distance",
-  "version": "1.0.0",
-  "description": "change poi to distance(km)",
+  "version": "1.0.1",
+  "description": "Calculate the distance between two points",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
