@@ -1,0 +1,22 @@
+{
+  "name": "@garvey/gps2distance",
+  "version": "1.0.0",
+  "description": "change poi to distance(km)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarveySun/gps2distance.git"
+  },
+  "author": "garveysun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GarveySun/gps2distance/issues"
+  },
+  "homepage": "https://github.com/GarveySun/gps2distance#readme",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
